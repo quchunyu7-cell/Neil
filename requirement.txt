@@ -2,3 +2,4 @@ Flask
 matplotlib
 numpy
 scipy
+gunicorn
